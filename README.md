@@ -1,6 +1,6 @@
 # 🎋 Baaambu65 & 60
 
-> *"A CNC-machined aluminium keyboard set, built as a commission for* ***Baaambu***."
+> *"A top-mount laser-cut acrylic keyboard set with a bamboo log theme, built as a commission for streamer* ***Baaambu***."
 
 <p align="center">
   <img src="images/renders/v1-2/03-final-2.png" width="700" alt="Baaambu65 — full render" />
@@ -13,11 +13,13 @@
 | | |
 |---|---|
 | **Form factor** | 65% (Baaambu65) & 60% (Baaambu60) |
-| **Type** | Commission — built for Baaambu |
-| **Case** | CNC-machined aluminium, anodized |
-| **Colorway** | Green anodized / brass accent |
-| **PCB** | 65% / 60% standard |
-| **Sound profile** | — |
+| **Type** | Commission — designed for streamer Baaambu |
+| **Mount** | Top-mount sandwich |
+| **Case** | Laser-cut acrylic |
+| **Theme** | Bamboo log |
+| **Plate** | Gravy plate with flexcuts (60% prototyped with a PLA printed plate) |
+| **PCB** | Supports DZ65 & DZ60 |
+| **Extras** | Detachable magnetic tray on the side of the case |
 
 ---
 
@@ -30,7 +32,7 @@
 
 ## 🎋 The Design
 
-The Baaambu set is a commission project — a 65% and a 60% CNC-machined aluminium keyboard, both sharing the same green anodized case with brass accents.
+The Baaambu set is a commission project — a 65% and a 60% top-mount laser-cut acrylic keyboard with a **bamboo log** theme, designed for streamer Baaambu. Both boards support the DZ65 and DZ60 PCBs, and the case carries a **detachable magnetic tray** on the side. The 60% was prototyped with a PLA printed plate before the final gravy plate with flexcuts was made.
 
 The design was modeled in 3D and rendered in November 2022. An early prototype (v1) was explored first, then the final v1.2 design was developed and rendered. A second colorway variant with a green acrylic / brass look was also explored.
 
@@ -191,4 +193,4 @@ baaambu65 & 60/
 
 ---
 
-*Built by [ReinTanto](https://github.com/ReinTanto). A commission — built for Baaambu.* 🎋
+*Built by [ReinTanto](https://github.com/ReinTanto). A commission — designed for streamer Baaambu.* 🎋
